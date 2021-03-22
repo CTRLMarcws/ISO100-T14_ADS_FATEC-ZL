@@ -1,16 +1,17 @@
-# Sistemas Operacionais I - Prof∫ Leandro Colevati Dos Santos - 2021-1
+# Sistemas Operacionais I - Prof¬∫ Leandro Colevati Dos Santos - 2021-1
 
 ### ISO100-A14_ADS_FATEC-ZL
 
-Terceiro exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descriÁ„o do desafio proposto:
+Terceiro exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descri√ß√£o do desafio proposto:
 
 #### Ex. 3
 
 
-Fazer uma aplicaÁ„o que gerencie a figura abaixo:  
-![AplicaÁ„o Cruzamento](https://github.com/CTRLMarcws/ISO100-T14_ADS_FATEC-ZL/tree/master/assets/Ex_Cruzamento.PNG)
+Fazer uma aplica√ß√£o que gerencie a figura abaixo:  
 
-Para tal, usar uma vari·vel sentido, que ser· alterado pela Thread que controla cada carro com a movimentaÁ„o do carro.  
-Quando a Thread tiver a possibilidade de ser executada, ela deve imprimir em console o sentido que o carro est· passando.  
-SÛ pode passar um carro por vez no cruzamento.  
+<img src="https://github.com/CTRLMarcws/ISO100-T14_ADS_FATEC-ZL/blob/master/assets/Ex_Cruzamento.PNG"  width=300px height=300px/>
+
+Para tal, usar uma vari√°vel sentido, que ser√° alterado pela Thread que controla cada carro com a movimenta√ß√£o do carro.  
+Quando a Thread tiver a possibilidade de ser executada, ela deve imprimir em console o sentido que o carro est√° passando.  
+S√≥ pode passar um carro por vez no cruzamento.  
 
