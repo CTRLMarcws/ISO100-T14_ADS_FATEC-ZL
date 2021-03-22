@@ -2,9 +2,9 @@
 
 ### ISO100-A14_ADS_FATEC-ZL
 
-Terceiro exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descrição do desafio proposto:
+Segundo exercicio da quarta lista de Sistemas Operacionais I. Abaixo a descrição do desafio proposto:
 
-#### Ex. 3
+#### Ex. 2
 
 
 Fazer uma aplicação que gerencie a figura abaixo:  
